@@ -4,11 +4,11 @@
 
 #### Made by HTML and CSS only
 
-**Review: **
+**Review:**
 
 ![image](https://github.com/BuiHongChien/layout-for-site/blob/master/page-design.png)
 
-**Step by step: **
+**Step by step:**
 
 - Install [VScode](https://code.visualstudio.com/)
 - Install VScode [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css#review-details) extension
